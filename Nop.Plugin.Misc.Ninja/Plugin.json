@@ -1,0 +1,12 @@
+{
+  "Group": "Misc",
+  "FriendlyName": "Ninja",
+  "SystemName": "Misc.Ninja",
+  "Version": "3.18",
+  "SupportedVersions": [ "4.20" ],
+  "Author": "nopCommerce team",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Misc.Ninja.dll",
+  "Description": "This plugin allows to Create Cms"
+
+}
